@@ -1,0 +1,49 @@
+layout_spectrum: 0.05167771159108765
+typography_spectrum: 0.1864506311094075
+color:
+  brandStrength: 0.20242278746117165
+  lightness: 0.6747507238952388
+  saturation: 0.7614686988330087
+  rhythmicContrast: 0.15334158605241244
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: video
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca50cfa6-99a3-4e2a-87ac-94c479f4588f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca50cfa6-99a3-4e2a-87ac-94c479f4588f.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Video Embeds
+description: ways to embed video in grid sites..
+github: true
