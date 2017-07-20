@@ -4,9 +4,9 @@
         <description><![CDATA[Video Embeds]]></description>
         <link>https://thegrid.ai/video/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Jul 2017 11:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2017 11:26:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/video/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Jul 2017 11:24:48 GMT</pubDate>
+        <pubDate>Thu, 20 Jul 2017 11:26:16 GMT</pubDate>
         <item>
             <title><![CDATA[TED test.. for all resolutions..]]></title>
             <description><![CDATA[<h1>TED test.. for all resolutions..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kEFqwzAQAO9-hRD0WMstpAfXDuTSD_QBRpY28ZK11kjrmLTk71XjkEJLBTpoWEbMNknOBNuidBzEYoCoPguVz8QJBTnUKgJZwRO8XvmCXoZaPVXVwwoGwMMgtarW52S9x3B47FmEx1ptXsrnTR69FOUJPfAfve0T0yw3vfB0VxHsf7z__ruSS9GYW0rj8aQc2ZRafa_SmeM-2hFUiq7Vg8iUamNg7MGXkq_j0YilYzI2IHUJZOgGXrozz7HrY7Z0gyWaHQYrkFae_ckhz6mLYAnlrNX1k56jh9jqSqvkIhPllbQ6sFYL9EeUHREvbzPRu4sAQY38Yb_RPqO0Ivtr5FZ0XaLeNmatyVkm926_AMxvluY" height="600"></iframe>,<p>well this works.. from homepage to own page.. notice it resizes itself.. always fitting the embedded window … new code I would suggest using this :</p>,<pre><code>&lt;style&gt;
@@ -33,7 +33,7 @@
         </item>
         <item>
             <title><![CDATA[Using the FB code..]]></title>
-            <description><![CDATA[<h1>Using the FB code..</h1>,<p>You can get the code from developers.facebook.com, and then just need to know the url of the facebook video.. In the configurator, the width was set at 800px, as it’s going on the home page..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytU11r2zAUfc-vuHjQJhBbcbLM7WJ7NGvICiUUmsFgjCFL17ESR3IlOa4Z---T03TZ69jeLN-j8yUp5uIAgidenvlaKeulMXG_0l5smBaVTft5LZkVSvb5EMzQYQfwowdwoBq2bp1vDSTAgw3aRYl7lNbM2zXdrOge-2bwdfRt5tAih_6fmHl7x_uOagAaba1lhzkRMY3U4gnnGGZuEAjuZoK_wAKjmVt6hDAlJTIb5JRhptQukGgJyu_LOTF8F2zNm-c825dJeHFAbVyI5DAOwtEFrao7noSTaDy5up5E78IoHE2vvY7e5Qkqqp32SnEMhDSo7RxzpbF_yjuY9X72uWJ153AIly9NXbqvVx_-1jj9y8FgFpNTj724a5qV1Jhj2QfBUXnAqaV-oTFPvMLayrwnpGmacyCm9mS5RlZIVapNS47bDAlH4XQaTaejq8nbMJpejciJqhHcFolHa_tKbgrV-BafrZOlpUF3wlmp2O6pVhaBCYv_Ln2OdezbdwUa9MVGutacHoX_kjBd3cxhPAojf-k_PiwWt_D46fN6fb-AL_cxoWlcpStEDlaByvNSUQ5HMsjdxaYbBCo5GOs8QUbZrq4MPNWC7cr2OEFqRNl-gHukWoJrDWyBILEBPMAjaoEGfgsXtbUlOmFohC1gXdSSo85UaWHSqbvrBjk1Fhqld85LA0aVdfeOjDNF4SbD8qOQGMSkSh-Usc531sLfVeWlS_-87CoAJTsv2nDaDmEcwU2lRXksLSbnYz898l_iQVJJ" height="550"></iframe>]]></description>
+            <description><![CDATA[<h1>Using the FB code..</h1>,<p>You can get the code from developers.facebook.com, and then just need to know the url of the facebook video.. In the configurator, the width was set at 800px, as it’s going on the home page.. BUT.. what they don’t seem to mention on the fb page, is you can change the code.. so I made it data-width=”auto” when pasting the code on the site… now you can see on this page, and its own page.. it just fills the embedded window fully :)</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytU11r2zAUfc-vuHjQJhBbcbLM7WJ7NGvICiUUmsFgjCFL17ESR3IlOa4Z---T03TZ69jeLN-j8yUp5uIAgidenvlaKeulMXG_0l5smBaVTft5LZkVSvb5EMzQYQfwowdwoBq2bp1vDSTAgw3aRYl7lNbM2zXdrOge-2bwdfRt5tAih_6fmHl7x_uOagAaba1lhzkRMY3U4gnnGGZuEAjuZoK_wAKjmVt6hDAlJTIb5JRhptQukGgJyu_LOTF8F2zNm-c825dJeHFAbVyI5DAOwtEFrao7noSTaDy5up5E78IoHE2vvY7e5Qkqqp32SnEMhDSo7RxzpbF_yjuY9X72uWJ153AIly9NXbqvVx_-1jj9y8FgFpNTj724a5qV1Jhj2QfBUXnAqaV-oTFPvMLayrwnpGmacyCm9mS5RlZIVapNS47bDAlH4XQaTaejq8nbMJpejciJqhHcFolHa_tKbgrV-BafrZOlpUF3wlmp2O6pVhaBCYv_Ln2OdezbdwUa9MVGutacHoX_kjBd3cxhPAojf-k_PiwWt_D46fN6fb-AL_cxoWlcpStEDlaByvNSUQ5HMsjdxaYbBCo5GOs8QUbZrq4MPNWC7cr2OEFqRNl-gHukWoJrDWyBILEBPMAjaoEGfgsXtbUlOmFohC1gXdSSo85UaWHSqbvrBjk1Fhqld85LA0aVdfeOjDNF4SbD8qOQGMSkSh-Usc531sLfVeWlS_-87CoAJTsv2nDaDmEcwU2lRXksLSbnYz898l_iQVJJ" height="550"></iframe>]]></description>
             <link>https://thegrid.ai/video/using-the-fb-code/index.html</link>
             <guid isPermaLink="false">8f56a003-466c-45bb-955f-54dd4d03b59e</guid>
             <pubDate>Wed, 19 Jul 2017 09:19:28 GMT</pubDate>
