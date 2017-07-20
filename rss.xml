@@ -4,12 +4,12 @@
         <description><![CDATA[Video Embeds]]></description>
         <link>https://thegrid.ai/video/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Jul 2017 11:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2017 11:29:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/video/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Jul 2017 11:27:37 GMT</pubDate>
+        <pubDate>Thu, 20 Jul 2017 11:29:02 GMT</pubDate>
         <item>
-            <title><![CDATA[TED test.. for all resolutions..]]></title>
-            <description><![CDATA[<h1>TED test.. for all resolutions..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kEFqwzAQAO9-hRD0WMstpAfXDuTSD_QBRpY28ZK11kjrmLTk71XjkEJLBTpoWEbMNknOBNuidBzEYoCoPguVz8QJBTnUKgJZwRO8XvmCXoZaPVXVwwoGwMMgtarW52S9x3B47FmEx1ptXsrnTR69FOUJPfAfve0T0yw3vfB0VxHsf7z__ruSS9GYW0rj8aQc2ZRafa_SmeM-2hFUiq7Vg8iUamNg7MGXkq_j0YilYzI2IHUJZOgGXrozz7HrY7Z0gyWaHQYrkFae_ckhz6mLYAnlrNX1k56jh9jqSqvkIhPllbQ6sFYL9EeUHREvbzPRu4sAQY38Yb_RPqO0Ivtr5FZ0XaLeNmatyVkm926_AMxvluY" height="600"></iframe>,<p>well this works.. from homepage to own page.. notice it resizes itself.. always fitting the embedded window … new code I would suggest using this :</p>,<pre><code>&lt;style&gt;
+            <title><![CDATA[TED demo.. for all resolutions..]]></title>
+            <description><![CDATA[<h1>TED demo.. for all resolutions..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kEFqwzAQAO9-hRD0WMstpAfXDuTSD_QBRpY28ZK11kjrmLTk71XjkEJLBTpoWEbMNknOBNuidBzEYoCoPguVz8QJBTnUKgJZwRO8XvmCXoZaPVXVwwoGwMMgtarW52S9x3B47FmEx1ptXsrnTR69FOUJPfAfve0T0yw3vfB0VxHsf7z__ruSS9GYW0rj8aQc2ZRafa_SmeM-2hFUiq7Vg8iUamNg7MGXkq_j0YilYzI2IHUJZOgGXrozz7HrY7Z0gyWaHQYrkFae_ckhz6mLYAnlrNX1k56jh9jqSqvkIhPllbQ6sFYL9EeUHREvbzPRu4sAQY38Yb_RPqO0Ivtr5FZ0XaLeNmatyVkm926_AMxvluY" height="600"></iframe>,<p>well this works.. from homepage to own page.. notice it resizes itself.. always fitting the embedded window … new code I would suggest using this :</p>,<pre><code>&lt;style&gt;
 .container {
     position: relative;
     width: 100%;
