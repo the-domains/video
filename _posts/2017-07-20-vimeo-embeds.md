@@ -4,8 +4,8 @@ description: >-
   interestingly it asks for the size as you get the embed code.. but that
   doesn’t mean we can’t change it… right ? The original embed code from vimeo is
   :
-dateModified: '2017-07-20T12:59:40.146Z'
-datePublished: '2017-07-20T12:59:41.013Z'
+dateModified: '2017-07-20T13:01:16.762Z'
+datePublished: '2017-07-20T13:01:17.679Z'
 title: Vimeo embeds..
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ interestingly it asks for the size as you get the embed code.. but that doesn't 
 
 The width and height are fixed, but we can just use the same code as we did before to get the fluid resizing from the home page to it's own page..
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1UMtuwyAQvPMVK6T21uBESqq4xj31F3rH9iZeFQyCjSO3yr-X2mkqRSonZkDzqhJPFmtROWQDIfqAkSct_bFkYosSWj8wDqzlOzn08OYa7JIEVYvVz5OhASN8Ccgn-ERMfighojVMI77M_Jk67ktYF8XDQvRIx55LKBYYTNfRcHxqPLN3JWx3q802f72I1UhdNr2XN03y9sRXefbhJmXx8Kf7r-_CXESlfut3NEJrTUpa3lrJzNMhGoeQYqtlzxxSqVSwZsKYo-U98gZOzSHVZr1_Lvab3fZ1Xk4Xj81ks06-BB85GmJdSJgFGx87jFpmfMbmg9hY68-Hk7WpjYgDOP95T93ja9zZXNaVWqLmzCqXqYX4BqAdmEg" height="610" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kMFugzAQRO_-CstSe2tMkEgVAvRbDF7CqoZF9gZEq_x7LUCplKp78oystzNbBF4cVOLQ0MAGB_DyW8g4IwVkpCGXHpxhnOCy-jNa7nJ5TJKXzegArx3nMtnkaKzF4fpWEzP1ucxOhzSLX-_iMKEF-oM3dSB34x3PND5QDtpf7r97N-cuCr1XKSxOsnEmhFI9WqnoY-tNDzL4plQd8xhyrUdnFvAxWg8Ub9DrNaROj-f35Jyesg9GdlAmr_XiIic-RvLsDXKZKLkCa_IWfKminqH-RDbO0dzenAuNBxhkT1_P1rPe467LVVXoLWrMrGOZSogfJE6Gag" height="610" style=""></iframe>
 
 embed code used :
 
