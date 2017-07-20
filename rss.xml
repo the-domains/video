@@ -4,9 +4,9 @@
         <description><![CDATA[Video Embeds]]></description>
         <link>https://thegrid.ai/video/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Jul 2017 12:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2017 12:29:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/video/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Jul 2017 12:22:57 GMT</pubDate>
+        <pubDate>Thu, 20 Jul 2017 12:29:08 GMT</pubDate>
         <item>
             <title><![CDATA[TED demo.. for all resolutions..]]></title>
             <description><![CDATA[<h1>TED demo.. for all resolutions..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kEFqwzAQAO9-hRD0WMstpAfXDuTSD_QBRpY28ZK11kjrmLTk71XjkEJLBTpoWEbMNknOBNuidBzEYoCoPguVz8QJBTnUKgJZwRO8XvmCXoZaPVXVwwoGwMMgtarW52S9x3B47FmEx1ptXsrnTR69FOUJPfAfve0T0yw3vfB0VxHsf7z__ruSS9GYW0rj8aQc2ZRafa_SmeM-2hFUiq7Vg8iUamNg7MGXkq_j0YilYzI2IHUJZOgGXrozz7HrY7Z0gyWaHQYrkFae_ckhz6mLYAnlrNX1k56jh9jqSqvkIhPllbQ6sFYL9EeUHREvbzPRu4sAQY38Yb_RPqO0Ivtr5FZ0XaLeNmatyVkm926_AMxvluY" height="600"></iframe>,<p>well this works.. from homepage to own page.. notice it resizes itself.. always fitting the embedded window … new code I would suggest using this :</p>,<pre><code>&lt;style&gt;
@@ -48,7 +48,7 @@
         </item>
         <item>
             <title><![CDATA[Vimeo embeds..]]></title>
-            <description><![CDATA[<h1>Vimeo embeds..</h1>,<p>interestingly it asks for the size as you get the embed code.. but that doesn’t mean we can’t change it… right ?</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdjsEOgkAMRH-F7MEji6gYDYvfskBxG7uUlArBrxf0xu29ySQzJXbiIySjNM4E1WG8WzuQX0DSCSNw2nC0E7bANj_ertktLy4PRSVw2aFeCPsNBhYVj-oyk8zYanCmOK8cAJ9BnTkVq_yWapYWxJmtCPUL1RPx3L2JxkYA-iTyZx_tvCrt_3X1BTy2Qtw" height="550"></iframe>]]></description>
+            <description><![CDATA[<h1>Vimeo embeds..</h1>,<p>interestingly it asks for the size as you get the embed code.. but that doesn’t mean we can’t change it… right ? The original embed code from vimeo is :</p>,<pre><code>&lt;iframe src=&quot;https://player.vimeo.com/video/219709265?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</code></pre>,<p>The width and height are fixed, but we can just use the same code as we did before to get the fluid resizing from the home page to it’s own page..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdjsEOgkAMRH-F7MEji6gYDYvfskBxG7uUlArBrxf0xu29ySQzJXbiIySjNM4E1WG8WzuQX0DSCSNw2nC0E7bANj_ertktLy4PRSVw2aFeCPsNBhYVj-oyk8zYanCmOK8cAJ9BnTkVq_yWapYWxJmtCPUL1RPx3L2JxkYA-iTyZx_tvCrt_3X1BTy2Qtw" height="550"></iframe>]]></description>
             <link>https://thegrid.ai/video/vimeo-embeds/index.html</link>
             <guid isPermaLink="false">629cff61-32e2-43f7-8ee0-260f70cdc658</guid>
             <pubDate>Thu, 20 Jul 2017 12:22:49 GMT</pubDate>
