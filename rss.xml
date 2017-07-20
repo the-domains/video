@@ -4,9 +4,9 @@
         <description><![CDATA[Video Embeds]]></description>
         <link>https://thegrid.ai/video/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Jul 2017 11:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2017 11:23:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/video/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Jul 2017 11:21:34 GMT</pubDate>
+        <pubDate>Thu, 20 Jul 2017 11:23:35 GMT</pubDate>
         <item>
             <title><![CDATA[TED test.. for all resolutions..]]></title>
             <description><![CDATA[<h1>TED test.. for all resolutions..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kEFqwzAQAO9-hRD0WMstpAfXDuTSD_QBRpY28ZK11kjrmLTk71XjkEJLBTpoWEbMNknOBNuidBzEYoCoPguVz8QJBTnUKgJZwRO8XvmCXoZaPVXVwwoGwMMgtarW52S9x3B47FmEx1ptXsrnTR69FOUJPfAfve0T0yw3vfB0VxHsf7z__ruSS9GYW0rj8aQc2ZRafa_SmeM-2hFUiq7Vg8iUamNg7MGXkq_j0YilYzI2IHUJZOgGXrozz7HrY7Z0gyWaHQYrkFae_ckhz6mLYAnlrNX1k56jh9jqSqvkIhPllbQ6sFYL9EeUHREvbzPRu4sAQY38Yb_RPqO0Ivtr5FZ0XaLeNmatyVkm926_AMxvluY" height="600"></iframe>,<p>well this works.. from homepage to own page.. notice it resizes itself.. always fitting the embedded window … new code I would suggest using this :</p>,<pre><code>&lt;style&gt;
@@ -33,7 +33,7 @@
         </item>
         <item>
             <title><![CDATA[Using the FB code..]]></title>
-            <description><![CDATA[<h1>Using the FB code..</h1>,<p>You can get the code from developers.facebook.com, and then just need to know the url of the facebook video.. In the configurator, the width was set at 800px, as it’s going on the home page..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytU--L2jAY_u5f8dLBXQXbtDqnN9uOcxN3cMjBORiMMdLkrY3WpJek9mTsf1_qubmvY_vW5H36_EqScHEAwVOvyAOtlPWyhLitrJcYpkVtM79oJLNCSZ8PwAwctg_fewAHqmHr1sXWQAo83KBdVLhHac38uKabFd2jb_pfoq8zhxYF-H9i5sc77juqPmi0jZYd5kzENFKLZ5xjmLlBKLibCf4CC41mbukRwpSUyGxYUIa5UrtQoiUovy3nxPBduDWvnot8X6Xx1QG1cSHSwzCMoyta13c8jUeT4Wh6M5q8iSdxNL7xOnqXJ6ypdtorxTEU0qC2cyyURv-ctz_r_fC5Yk3ncADXL01du69fPoKtcfrX_f4sIecee0nXNKuoMaeyD4Kj8oBTS4NSY5F6pbW1eUtI27aXQEztyXKNrJSqUpsjOf1mSBzF4_FkPI6mo9fxZDyNyJmqFdyWqTeNovOGKVUbWHy2TpVWBt0B55Viu6dGWQQmLP678iXVqe7A9WcwEBvpSnN6FP5LwGx1O4dhFE-CZfD4sFh8gMePn9br-wV8vk8IzZI6WyFysApUUVSKcjiRQeHuNd0gUMnBWOcJcsp2TW3gqRFsVx1PE6RGVMd3cI9US3CtgS0RJLaAB3hELdDAb-GysbZCJwytsCWsy0Zy1LmqLIw6dXfboKDGQqv0znlpwaiq6Z6RcaYo3OZYvRcSw4TU2YMy1vnOj_B3VXnZMrgsuwpAyc6LNpweBzCcwG2tRXUqLSGXYz-_8Z_eqVEo" height="550"></iframe>]]></description>
+            <description><![CDATA[<h1>Using the FB code..</h1>,<p>You can get the code from developers.facebook.com, and then just need to know the url of the facebook video.. In the configurator, the width was set at 800px, as it’s going on the home page..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytU11v0zAUfe-vuApia6UmTlpKNpoEraMqk6Zq0oqEhBBy7JvGbWpnttOsQvx3nK5QXhG8xb4n58t2wsUeBE-9Ive1UtbLEuK2sl5imBa1zfpFI5kVSvb5EMzQYQfwvQewpxo2bl1sDKTAgzXaeYU7lNbMDiu6XtId9s3gS_h16tCigP6fmNnhjvcd1QA02kbLDnMiYhqpxRPOMUzdIBDczQR_gQVGM7f0CGFKSmQ2KCjDXKltINESlN8WM2L4NtiYV89FvqvS6GKP2rgQ6X4UROEFres7nkbjeDS-uh7Hb6M4CifXXkfv8gQ11U57qTgGQhrUdoaF0tg_5R1Mez_6XLGmcziEy5emLt3XLx_-xjj9y8FgmpBTj72ka5pV1Jhj2XvBUXnAqaV-qbFIvdLa2rwjpG3bcyCmdmSxQlZKVan1gRx_MyQKo8kknkzCq_GbKJ5cheRE1Qpuy9SLwvD1aceUqvUtPlsnSyuD7oTzSrHtU6MsAhMW_136HOvYt-8KNOiLtXStOT0K_yVhtryZwSiMYn_hPz7M5x_g8eOn1ep-Dp_vE0KzpM6WiBysAlUUlaIcjmRQuItN1whUcjDWeYKcsm1TG3hqBNtWh-MEqRHV4T3cI9USXGtgSwSJLeAeHlELNPBbuGysrdAJQytsCauykRx1rioL407dXTcoqLHQKr11Xlowqmq6d2ScKQo3OVa3QmKQkDp7UMY63_kB_q4qL1v452VXASjZedGG08MQRjHc1FpUx9IScj720yP_CbdcUUY" height="550"></iframe>,<p>vi</p>]]></description>
             <link>https://thegrid.ai/video/using-the-fb-code/index.html</link>
             <guid isPermaLink="false">8f56a003-466c-45bb-955f-54dd4d03b59e</guid>
             <pubDate>Wed, 19 Jul 2017 09:19:28 GMT</pubDate>
