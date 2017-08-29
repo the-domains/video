@@ -4,9 +4,9 @@
         <description><![CDATA[Video Embeds]]></description>
         <link>http://video.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Aug 2017 14:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2017 14:39:12 GMT</lastBuildDate>
         <atom:link href="http://video.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Aug 2017 14:38:58 GMT</pubDate>
+        <pubDate>Tue, 29 Aug 2017 14:39:08 GMT</pubDate>
         <item>
             <title><![CDATA[TED demo.. for all resolutions..]]></title>
             <description><![CDATA[<h1>TED demo.. for all resolutions..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kEFqwzAQAO9-hRD0WMstpAfXDuTSD_QBRpY28ZK11kjrmLTk71XjkEJLBTpoWEbMNknOBNuidBzEYoCoPguVz8QJBTnUKgJZwRO8XvmCXoZaPVXVwwoGwMMgtarW52S9x3B47FmEx1ptXsrnTR69FOUJPfAfve0T0yw3vfB0VxHsf7z__ruSS9GYW0rj8aQc2ZRafa_SmeM-2hFUiq7Vg8iUamNg7MGXkq_j0YilYzI2IHUJZOgGXrozz7HrY7Z0gyWaHQYrkFae_ckhz6mLYAnlrNX1k56jh9jqSqvkIhPllbQ6sFYL9EeUHREvbzPRu4sAQY38Yb_RPqO0Ivtr5FZ0XaLeNmatyVkm926_AMxvluY" height="600"></iframe>,<p>well this works.. from homepage to own page.. notice it resizes itself.. always fitting the embedded window … new code I would suggest using this :</p>,<pre><code>&lt;style&gt;
@@ -47,6 +47,30 @@
             <pubDate>Wed, 19 Jul 2017 09:19:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vimeo embeds..]]></title>
+            <description><![CDATA[<h1>Vimeo embeds..</h1>,<p>interestingly it asks for the size as you get the embed code.. but that doesn’t mean we can’t change it… right ? The original embed code from vimeo is :</p>,<pre><code>&lt;iframe src=&quot;https://player.vimeo.com/video/219709265?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</code></pre>,<p>The width and height are fixed, but we can just use the same code as we did before to get the fluid resizing from the home page to it’s own page..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kMFugzAQRO_-CstSe2tMkEgVAvRbDF7CqoZF9gZEq_x7LUCplKp78oystzNbBF4cVOLQ0MAGB_DyW8g4IwVkpCGXHpxhnOCy-jNa7nJ5TJKXzegArx3nMtnkaKzF4fpWEzP1ucxOhzSLX-_iMKEF-oM3dSB34x3PND5QDtpf7r97N-cuCr1XKSxOsnEmhFI9WqnoY-tNDzL4plQd8xhyrUdnFvAxWg8Ub9DrNaROj-f35Jyesg9GdlAmr_XiIic-RvLsDXKZKLkCa_IWfKminqH-RDbO0dzenAuNBxhkT1_P1rPe467LVVXoLWrMrGOZSogfJE6Gag" height="610"></iframe>,<p>embed code used :</p>,<pre><code>&lt;style&gt;
+.container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+&lt;/style&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/219709265?title=0&amp;byline=0&amp;portrait=0&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen class=&quot;video&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</code></pre>]]></description>
+            <link>http://video.abc-xyz.us/vimeo-embeds/index.html</link>
+            <guid isPermaLink="false">629cff61-32e2-43f7-8ee0-260f70cdc658</guid>
+            <pubDate>Thu, 20 Jul 2017 12:22:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[YouTube embedding]]></title>
             <description><![CDATA[<h1>YouTube embedding</h1>,<p>We can do similar with youtube embedding. If you go to your video in youtube, they will give you an embed code like this :</p>,<pre><code>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/paYdLbTFUaI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </code></pre>,<p>You can simply paste that into an embedded window on a grid site, and it will appear…</p>,<p>Few issues though, it won’t size well on a mobile device, it will be small and look terrible, and basically if you’re going to do it.. do it right…</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kDFrxDAMhff8CmPo2DgtXIc0yVgodGyHjnasXMQ5UbCVmGu5_16ThCtcqTZ9SE_vqQp8dtBkeUsjaxzBi-9MpJooICONpfDgNOMCzyuPaLkvxUNR3G2gBzz2XIpiaydtLY7He0PMNJTi8JQ_HtLoJcsXtEB_5LUJ5Gbe5Zmmq5SD7lf337sbuWSV2qNUFhfROh1CLa-pZOLYeT2ACL6tZc88hVKpGGN-pplnA-kFg4LBgFWT_rRv5v3lQ79KsW4Z8hZ8LQspIpgTsnaOYjc7F1oPMIqBvm7Rbb97Wt8gm0ptfpIxlRw3PyXyfhE" height="450"></iframe>,<p>Using the code below.. we now have a responsive video, whether here on the homepage, on a mobile phone, or on it’s own page…</p>,<pre><code>&lt;style&gt;
@@ -70,30 +94,6 @@
             <link>https://the-grid.github.io/ed-userhtml/?g=eJx1kDFrxDAMhff8CmPo2DgtXIc0yVgodGyHjnasXMQ5UbCVmGu5_16ThCtcqTZ9SE_vqQp8dtBkeUsjaxzBi-9MpJooICONpfDgNOMCzyuPaLkvxUNR3G2gBzz2XIpiaydtLY7He0PMNJTi8JQ_HtLoJcsXtEB_5LUJ5Gbe5Zmmq5SD7lf337sbuWSV2qNUFhfROh1CLa-pZOLYeT2ACL6tZc88hVKpGGN-pplnA-kFg4LBgFWT_rRv5v3lQ79KsW4Z8hZ8LQspIpgTsnaOYjc7F1oPMIqBvm7Rbb97Wt8gm0ptfpIxlRw3PyXyfhE</link>
             <guid isPermaLink="false">a28d5fdb-8870-4d84-b8cd-4a7a6958d506</guid>
             <pubDate>Tue, 29 Aug 2017 14:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vimeo embeds..]]></title>
-            <description><![CDATA[<h1>Vimeo embeds..</h1>,<p>interestingly it asks for the size as you get the embed code.. but that doesn’t mean we can’t change it… right ? The original embed code from vimeo is :</p>,<pre><code>&lt;iframe src=&quot;https://player.vimeo.com/video/219709265?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</code></pre>,<p>The width and height are fixed, but we can just use the same code as we did before to get the fluid resizing from the home page to it’s own page..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kMFugzAQRO_-CstSe2tMkEgVAvRbDF7CqoZF9gZEq_x7LUCplKp78oystzNbBF4cVOLQ0MAGB_DyW8g4IwVkpCGXHpxhnOCy-jNa7nJ5TJKXzegArx3nMtnkaKzF4fpWEzP1ucxOhzSLX-_iMKEF-oM3dSB34x3PND5QDtpf7r97N-cuCr1XKSxOsnEmhFI9WqnoY-tNDzL4plQd8xhyrUdnFvAxWg8Ub9DrNaROj-f35Jyesg9GdlAmr_XiIic-RvLsDXKZKLkCa_IWfKminqH-RDbO0dzenAuNBxhkT1_P1rPe467LVVXoLWrMrGOZSogfJE6Gag" height="610"></iframe>,<p>embed code used :</p>,<pre><code>&lt;style&gt;
-.container {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 56.25%;
-}
-.video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-&lt;/style&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/219709265?title=0&amp;byline=0&amp;portrait=0&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen class=&quot;video&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;</code></pre>]]></description>
-            <link>http://video.abc-xyz.us/vimeo-embeds/index.html</link>
-            <guid isPermaLink="false">629cff61-32e2-43f7-8ee0-260f70cdc658</guid>
-            <pubDate>Thu, 20 Jul 2017 12:22:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
