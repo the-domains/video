@@ -2,11 +2,11 @@
     <channel>
         <title><![CDATA[Video Embeds]]></title>
         <description><![CDATA[Video Embeds]]></description>
-        <link>https://thegrid.ai/video/</link>
+        <link>http://video.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 20 Jul 2017 13:01:18 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/video/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Jul 2017 13:01:18 GMT</pubDate>
+        <lastBuildDate>Tue, 29 Aug 2017 14:39:00 GMT</lastBuildDate>
+        <atom:link href="http://video.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 29 Aug 2017 14:38:58 GMT</pubDate>
         <item>
             <title><![CDATA[TED demo.. for all resolutions..]]></title>
             <description><![CDATA[<h1>TED demo.. for all resolutions..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kEFqwzAQAO9-hRD0WMstpAfXDuTSD_QBRpY28ZK11kjrmLTk71XjkEJLBTpoWEbMNknOBNuidBzEYoCoPguVz8QJBTnUKgJZwRO8XvmCXoZaPVXVwwoGwMMgtarW52S9x3B47FmEx1ptXsrnTR69FOUJPfAfve0T0yw3vfB0VxHsf7z__ruSS9GYW0rj8aQc2ZRafa_SmeM-2hFUiq7Vg8iUamNg7MGXkq_j0YilYzI2IHUJZOgGXrozz7HrY7Z0gyWaHQYrkFae_ckhz6mLYAnlrNX1k56jh9jqSqvkIhPllbQ6sFYL9EeUHREvbzPRu4sAQY38Yb_RPqO0Ivtr5FZ0XaLeNmatyVkm926_AMxvluY" height="600"></iframe>,<p>well this works.. from homepage to own page.. notice it resizes itself.. always fitting the embedded window … new code I would suggest using this :</p>,<pre><code>&lt;style&gt;
@@ -27,7 +27,7 @@
 &lt;div class=&quot;container&quot;&gt;
 &lt;iframe src=&quot;https://embed.ted.com/talks/anil_seth_how_your_brain_hallucinates_your_conscious_reality&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen class=&quot;video&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;</code></pre>]]></description>
-            <link>https://thegrid.ai/video/ted-test-for-all-resolutions/index.html</link>
+            <link>http://video.abc-xyz.us/ted-test-for-all-resolutions/index.html</link>
             <guid isPermaLink="false">f867b544-1d87-4b13-b1fa-9eca206e52ad</guid>
             <pubDate>Wed, 19 Jul 2017 11:48:00 GMT</pubDate>
         </item>
@@ -42,9 +42,34 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, &apos;script&apos;, &apos;facebook-jssdk&apos;));&lt;/script&gt;
 &lt;div class=&quot;fb-video&quot; data-href=&quot;https://www.facebook.com/GTechnology/videos/10155755083417580/&quot; data-width=&quot;auto&quot; data-show-text=&quot;false&quot;&gt;&lt;blockquote cite=&quot;https://www.facebook.com/GTechnology/videos/10155755083417580/&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;a href=&quot;https://www.facebook.com/GTechnology/videos/10155755083417580/&quot;&gt;NAB 2017-G-SPEED SHUTTLE XL&lt;/a&gt;&lt;p&gt;Need to offload video footage and store backups quickly and easily? Learn how the new ev Series G-SPEED Shuttle XL with Thunderbolt 3 offers fast workflow solutions via AbelCine.&lt;/p&gt;Posted by &lt;a href=&quot;https://www.facebook.com/GTechnology/&quot;&gt;G-Technology&lt;/a&gt; on Thursday, 27 April 2017&lt;/blockquote&gt;&lt;/div&gt;</code></pre>]]></description>
-            <link>https://thegrid.ai/video/using-the-fb-code/index.html</link>
+            <link>http://video.abc-xyz.us/using-the-fb-code/index.html</link>
             <guid isPermaLink="false">8f56a003-466c-45bb-955f-54dd4d03b59e</guid>
             <pubDate>Wed, 19 Jul 2017 09:19:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[YouTube embedding]]></title>
+            <description><![CDATA[<h1>YouTube embedding</h1>,<p>We can do similar with youtube embedding. If you go to your video in youtube, they will give you an embed code like this :</p>,<pre><code>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/paYdLbTFUaI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</code></pre>,<p>You can simply paste that into an embedded window on a grid site, and it will appear…</p>,<p>Few issues though, it won’t size well on a mobile device, it will be small and look terrible, and basically if you’re going to do it.. do it right…</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kDFrxDAMhff8CmPo2DgtXIc0yVgodGyHjnasXMQ5UbCVmGu5_16ThCtcqTZ9SE_vqQp8dtBkeUsjaxzBi-9MpJooICONpfDgNOMCzyuPaLkvxUNR3G2gBzz2XIpiaydtLY7He0PMNJTi8JQ_HtLoJcsXtEB_5LUJ5Gbe5Zmmq5SD7lf337sbuWSV2qNUFhfROh1CLa-pZOLYeT2ACL6tZc88hVKpGGN-pplnA-kFg4LBgFWT_rRv5v3lQ79KsW4Z8hZ8LQspIpgTsnaOYjc7F1oPMIqBvm7Rbb97Wt8gm0ptfpIxlRw3PyXyfhE" height="450"></iframe>,<p>Using the code below.. we now have a responsive video, whether here on the homepage, on a mobile phone, or on it’s own page…</p>,<pre><code>&lt;style&gt;
+.container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+&lt;/style&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/paYdLbTFUaI&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen class=&quot;video&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</code></pre>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJx1kDFrxDAMhff8CmPo2DgtXIc0yVgodGyHjnasXMQ5UbCVmGu5_16ThCtcqTZ9SE_vqQp8dtBkeUsjaxzBi-9MpJooICONpfDgNOMCzyuPaLkvxUNR3G2gBzz2XIpiaydtLY7He0PMNJTi8JQ_HtLoJcsXtEB_5LUJ5Gbe5Zmmq5SD7lf337sbuWSV2qNUFhfROh1CLa-pZOLYeT2ACL6tZc88hVKpGGN-pplnA-kFg4LBgFWT_rRv5v3lQ79KsW4Z8hZ8LQspIpgTsnaOYjc7F1oPMIqBvm7Rbb97Wt8gm0ptfpIxlRw3PyXyfhE</link>
+            <guid isPermaLink="false">a28d5fdb-8870-4d84-b8cd-4a7a6958d506</guid>
+            <pubDate>Tue, 29 Aug 2017 14:38:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vimeo embeds..]]></title>
@@ -66,7 +91,7 @@
 &lt;div class=&quot;container&quot;&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/219709265?title=0&amp;byline=0&amp;portrait=0&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen class=&quot;video&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;</code></pre>]]></description>
-            <link>https://thegrid.ai/video/vimeo-embeds/index.html</link>
+            <link>http://video.abc-xyz.us/vimeo-embeds/index.html</link>
             <guid isPermaLink="false">629cff61-32e2-43f7-8ee0-260f70cdc658</guid>
             <pubDate>Thu, 20 Jul 2017 12:22:49 GMT</pubDate>
         </item>
