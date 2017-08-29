@@ -3,18 +3,18 @@ inFeed: true
 description: >-
   We can do similar with youtube embedding. If you go to your video in youtube,
   they will give you an embed code like this :
-dateModified: '2017-08-29T14:39:07.383Z'
-datePublished: '2017-08-29T14:39:07.498Z'
+dateModified: '2017-08-29T14:40:29.111Z'
+datePublished: '2017-08-29T14:40:29.236Z'
 title: YouTube embedding
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJx1kDFrxDAMhff8CmPo2DgtXIc0yVgodGyHjnasXMQ5UbCVmGu5_16ThCtcqTZ9SE_vqQp8dtBkeUsjaxzBi-9MpJooICONpfDgNOMCzyuPaLkvxUNR3G2gBzz2XIpiaydtLY7He0PMNJTi8JQ_HtLoJcsXtEB_5LUJ5Gbe5Zmmq5SD7lf337sbuWSV2qNUFhfROh1CLa-pZOLYeT2ACL6tZc88hVKpGGN-pplnA-kFg4LBgFWT_rRv5v3lQ79KsW4Z8hZ8LQspIpgTsnaOYjc7F1oPMIqBvm7Rbb97Wt8gm0ptfpIxlRw3PyXyfhE
 sourcePath: _posts/2017-08-29-youtube-embedding.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-29T14:38:58.386Z'
-_type: MediaObject
+url: youtube-embedding/index.html
+_type: Article
 
 ---
 # YouTube embedding
