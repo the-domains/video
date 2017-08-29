@@ -48,3 +48,7 @@ title: Video Embeds
 description: ways to embed video in grid sites..
 github: true
 url: 'http://video.abc-xyz.us/'
+purpose:
+  - type: external
+    url: 'https://abc-xyz.us'
+    label: abc.. to xyz
