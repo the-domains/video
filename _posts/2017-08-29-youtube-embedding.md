@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We can do similar with youtube embedding. If you go to your video in youtube,
   they will give you an embed code like this :
-dateModified: '2017-08-29T14:40:29.111Z'
-datePublished: '2017-08-29T14:40:29.236Z'
+dateModified: '2017-08-29T14:40:33.924Z'
+datePublished: '2017-08-29T14:40:34.084Z'
 title: YouTube embedding
 author: []
 publisher: {}
