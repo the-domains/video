@@ -4,9 +4,9 @@
         <description><![CDATA[Video Embeds]]></description>
         <link>http://video.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Aug 2017 14:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2017 14:03:13 GMT</lastBuildDate>
         <atom:link href="http://video.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Aug 2017 14:40:34 GMT</pubDate>
+        <pubDate>Wed, 30 Aug 2017 14:01:15 GMT</pubDate>
         <item>
             <title><![CDATA[TED demo.. for all resolutions..]]></title>
             <description><![CDATA[<h1>TED demo.. for all resolutions..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kEFqwzAQAO9-hRD0WMstpAfXDuTSD_QBRpY28ZK11kjrmLTk71XjkEJLBTpoWEbMNknOBNuidBzEYoCoPguVz8QJBTnUKgJZwRO8XvmCXoZaPVXVwwoGwMMgtarW52S9x3B47FmEx1ptXsrnTR69FOUJPfAfve0T0yw3vfB0VxHsf7z__ruSS9GYW0rj8aQc2ZRafa_SmeM-2hFUiq7Vg8iUamNg7MGXkq_j0YilYzI2IHUJZOgGXrozz7HrY7Z0gyWaHQYrkFae_ckhz6mLYAnlrNX1k56jh9jqSqvkIhPllbQ6sFYL9EeUHREvbzPRu4sAQY38Yb_RPqO0Ivtr5FZ0XaLeNmatyVkm926_AMxvluY" height="600"></iframe>,<p>well this works.. from homepage to own page.. notice it resizes itself.. always fitting the embedded window … new code I would suggest using this :</p>,<pre><code>&lt;style&gt;
@@ -69,6 +69,13 @@
             <link>http://video.abc-xyz.us/vimeo-embeds/index.html</link>
             <guid isPermaLink="false">629cff61-32e2-43f7-8ee0-260f70cdc658</guid>
             <pubDate>Thu, 20 Jul 2017 12:22:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Adding videos..</p>]]></description>
+            <link>http://video.abc-xyz.us/adding-videos/index.html</link>
+            <guid isPermaLink="false">953ec387-b752-4f13-9050-ae3bdd5cf34e</guid>
+            <pubDate>Wed, 30 Aug 2017 14:01:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[YouTube embedding]]></title>
