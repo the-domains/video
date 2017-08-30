@@ -7,8 +7,8 @@ description: >-
   on the fb page, is you can change the code.. so I made it data-width=”auto”
   when pasting the code on the site… now you can see on this page, and its own
   page.. it just fills the embedded window fully :)
-dateModified: '2017-07-20T11:37:12.107Z'
-datePublished: '2017-07-20T11:37:13.035Z'
+dateModified: '2017-08-30T14:11:46.262Z'
+datePublished: '2017-08-30T14:11:46.808Z'
 title: Using the FB code..
 author: []
 publisher: {}
