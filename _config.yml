@@ -44,7 +44,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Video Embeds
+title: video embeds
 description: ways to embed video in grid sites..
 github: true
 url: 'http://video.abc-xyz.us/'
