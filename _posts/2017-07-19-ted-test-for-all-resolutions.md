@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   well this works.. from homepage to own page.. notice it resizes itself..
   always fitting the embedded window … new code I would suggest using this :
-dateModified: '2017-07-20T11:29:00.992Z'
-datePublished: '2017-07-20T11:29:01.740Z'
+dateModified: '2017-08-30T14:11:46.262Z'
+datePublished: '2017-08-30T14:11:46.802Z'
 title: TED demo.. for all resolutions..
 author: []
 publisher: {}
