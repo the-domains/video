@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: video
+name: abc.. to xyz
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -52,3 +52,7 @@ purpose:
   - type: external
     url: 'https://abc-xyz.us'
     label: abc.. to xyz
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1edcba34-b204-4164-802d-0be97c315bb5.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51e464fe-995c-4ed8-b260-f25e673b47b2.png
