@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: abc.. to xyz
+name: videos
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -47,7 +47,7 @@ content:
 title: video embeds
 description: ways to embed video in grid sites..
 github: true
-url: 'http://video.abc-xyz.us/'
+url: 'https://thegrid.ai/video'
 purpose:
   - type: external
     url: 'https://abc-xyz.us'
