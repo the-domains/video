@@ -4,9 +4,9 @@
         <description><![CDATA[video embeds]]></description>
         <link>https://thegrid.ai/video/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Apr 2018 07:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Apr 2018 07:07:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/video/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Apr 2018 07:06:00 GMT</pubDate>
+        <pubDate>Sat, 28 Apr 2018 07:07:35 GMT</pubDate>
         <item>
             <title><![CDATA[Adding videos..]]></title>
             <description><![CDATA[<h1>Adding videos..</h1>,<p>To add videos to a site, we’re going to have to use the embedded html option. This means that we will need the share or embed code from the video hosting site.</p>,<p>On this page, we’ve embedded videos from TED, Vimeo, Facebook and of course Youtube.</p>,<p>Using the code as is.. sure it will work, but the video is not going to autosize based on how the visitor is looking at your site.</p>,<p>On the Homepage (this page) the embedded html element is approx 800px wide, whilst if the video is on it’s own page, it will only be approx 690px wide. Then we have the visitor using their mobile phone.. so there is no point using the default code that will be provided, we’re just going to alter it slightly.</p>,<p>We’ve listed 4 videos below, with the code provided to us via the host website, and then the actual code we used to make the videos consistent and responsive where ever your visitors are watching from..</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0631aae-a3e9-461b-aa15-365cfa1251e0.jpg">]]></description>
