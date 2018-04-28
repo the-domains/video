@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We can do similar with youtube embedding. If you go to your video in youtube,
   they will give you an embed code like this :
-dateModified: '2018-04-28T06:32:02.839Z'
-datePublished: '2018-04-28T06:32:04.626Z'
+dateModified: '2018-04-28T06:33:42.024Z'
+datePublished: '2018-04-28T06:33:42.899Z'
 title: YouTube embedding
 author: []
 publisher: {}
@@ -51,21 +51,4 @@ Using the code below.. we now have a responsive video, whether here on the homep
     <iframe src="https://www.youtube.com/embed/paYdLbTFUaI" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
     </div>
 
-    <style>
-    .container {
-        position: relative;
-        width: 100%;
-        height: 0;
-        padding-bottom: 56.25%;
-    }
-    .video {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
-    </style>
-    <div class="container">
-    <iframe src="https://youtu.be/JUaVhMjlPZg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
-    </div>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1j8FqhEAQRO9-RTOwxzhuYHMw6gcEArkkh9xGp9VORltmWmUT9t8jKhvYkL7Vo6iuyoKcHRZRXHEvhnr08B3BcgMHEuI-BY_OCE34uPKZrLQpHJPksIEWqWklhWSTg7GW-uauZBHuUjg9xPenxXqJ4oks8p94UwZ2o-zxwsM1ymH9m_vv341cokzvUzJLE1TOhJCr6yq1cKq96RCCr3LVigwh1frMo4xxifrp1by1zx_u5b1RsBpL9hZ9rhIFM5afJMY5nuvRuVB5xB46_rpFt3qvsS5XRaa3CksXvZQsfgDLYXkw" height="450" style=""></iframe>
