@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Video Embeds]]></title>
-        <description><![CDATA[Video Embeds]]></description>
-        <link>http://video.abc-xyz.us/</link>
+        <title><![CDATA[video embeds]]></title>
+        <description><![CDATA[video embeds]]></description>
+        <link>https://thegrid.ai/video/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Aug 2017 14:13:05 GMT</lastBuildDate>
-        <atom:link href="http://video.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Aug 2017 14:12:57 GMT</pubDate>
+        <lastBuildDate>Sat, 28 Apr 2018 06:32:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/video/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 28 Apr 2018 06:32:05 GMT</pubDate>
         <item>
             <title><![CDATA[Adding videos..]]></title>
             <description><![CDATA[<h1>Adding videos..</h1>,<p>To add videos to a site, we’re going to have to use the embedded html option. This means that we will need the share or embed code from the video hosting site.</p>,<p>On this page, we’ve embedded videos from TED, Vimeo, Facebook and of course Youtube.</p>,<p>Using the code as is.. sure it will work, but the video is not going to autosize based on how the visitor is looking at your site.</p>,<p>On the Homepage (this page) the embedded html element is approx 800px wide, whilst if the video is on it’s own page, it will only be approx 690px wide. Then we have the visitor using their mobile phone.. so there is no point using the default code that will be provided, we’re just going to alter it slightly.</p>,<p>We’ve listed 4 videos below, with the code provided to us via the host website, and then the actual code we used to make the videos consistent and responsive where ever your visitors are watching from..</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0631aae-a3e9-461b-aa15-365cfa1251e0.jpg">]]></description>
-            <link>http://video.abc-xyz.us/adding-videos/index.html</link>
+            <link>https://thegrid.ai/video/adding-videos/index.html</link>
             <guid isPermaLink="false">953ec387-b752-4f13-9050-ae3bdd5cf34e</guid>
             <pubDate>Wed, 30 Aug 2017 14:01:14 GMT</pubDate>
         </item>
@@ -34,7 +34,7 @@
 &lt;div class=&quot;container&quot;&gt;
 &lt;iframe src=&quot;https://embed.ted.com/talks/anil_seth_how_your_brain_hallucinates_your_conscious_reality&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen class=&quot;video&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;</code></pre>]]></description>
-            <link>http://video.abc-xyz.us/ted-test-for-all-resolutions/index.html</link>
+            <link>https://thegrid.ai/video/ted-test-for-all-resolutions/index.html</link>
             <guid isPermaLink="false">f867b544-1d87-4b13-b1fa-9eca206e52ad</guid>
             <pubDate>Wed, 19 Jul 2017 11:48:00 GMT</pubDate>
         </item>
@@ -49,7 +49,7 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, &apos;script&apos;, &apos;facebook-jssdk&apos;));&lt;/script&gt;
 &lt;div class=&quot;fb-video&quot; data-href=&quot;https://www.facebook.com/GTechnology/videos/10155755083417580/&quot; data-width=&quot;auto&quot; data-show-text=&quot;false&quot;&gt;&lt;blockquote cite=&quot;https://www.facebook.com/GTechnology/videos/10155755083417580/&quot; class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;a href=&quot;https://www.facebook.com/GTechnology/videos/10155755083417580/&quot;&gt;NAB 2017-G-SPEED SHUTTLE XL&lt;/a&gt;&lt;p&gt;Need to offload video footage and store backups quickly and easily? Learn how the new ev Series G-SPEED Shuttle XL with Thunderbolt 3 offers fast workflow solutions via AbelCine.&lt;/p&gt;Posted by &lt;a href=&quot;https://www.facebook.com/GTechnology/&quot;&gt;G-Technology&lt;/a&gt; on Thursday, 27 April 2017&lt;/blockquote&gt;&lt;/div&gt;</code></pre>]]></description>
-            <link>http://video.abc-xyz.us/using-the-fb-code/index.html</link>
+            <link>https://thegrid.ai/video/using-the-fb-code/index.html</link>
             <guid isPermaLink="false">8f56a003-466c-45bb-955f-54dd4d03b59e</guid>
             <pubDate>Wed, 19 Jul 2017 09:19:28 GMT</pubDate>
         </item>
@@ -73,7 +73,7 @@
 &lt;div class=&quot;container&quot;&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/219709265?title=0&amp;byline=0&amp;portrait=0&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen class=&quot;video&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;</code></pre>]]></description>
-            <link>http://video.abc-xyz.us/vimeo-embeds/index.html</link>
+            <link>https://thegrid.ai/video/vimeo-embeds/index.html</link>
             <guid isPermaLink="false">629cff61-32e2-43f7-8ee0-260f70cdc658</guid>
             <pubDate>Thu, 20 Jul 2017 12:22:49 GMT</pubDate>
         </item>
@@ -97,8 +97,25 @@
 &lt;/style&gt;
 &lt;div class=&quot;container&quot;&gt;
 &lt;iframe src=&quot;https://www.youtube.com/embed/paYdLbTFUaI&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen class=&quot;video&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</code></pre>,<pre><code>&lt;style&gt;
+.container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+&lt;/style&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;iframe src=&quot;https://youtu.be/JUaVhMjlPZg&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen class=&quot;video&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;</code></pre>]]></description>
-            <link>http://video.abc-xyz.us/youtube-embedding/index.html</link>
+            <link>https://thegrid.ai/video/youtube-embedding/index.html</link>
             <guid isPermaLink="false">a28d5fdb-8870-4d84-b8cd-4a7a6958d506</guid>
             <pubDate>Tue, 29 Aug 2017 14:38:58 GMT</pubDate>
         </item>
